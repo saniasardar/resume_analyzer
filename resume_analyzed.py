@@ -1,0 +1,12 @@
+name = ["ROBERT SMITH"]
+email = ["info@qwikresume.com"]
+phone = ["(123) 456 78 99"]
+skills = ["Python", "Java", "C", "Javascript", "Matlab", "R"]
+education = ["IT Technology- 2011(Gyumri Information Technologies Center)"]
+experience_level = ["experienced"]  # Based on the objective stating over 6 years of experience
+objective = ["Over 6 years of IT industry experience with 4+ years of experience as Mobile application developer in the field of Android. Experience in developing front end applications for Android phones. Experience developing mobile applications on Android platform, building Custom UI using Views, ViewGroups, Layouts, Widgets and graphics that scale based on the screen size using 9-patch images, localization, testing and publishing the applications to the Android Market."]
+declaration = [False] # Not found in the resume
+hobbies = [False] # Not found in the resume
+achievements = [False] #Not explicitly listed, could be inferred from experience
+certifications = [False] # Not found in the resume
+projects = [False] # Not explicitly listed as separate projects
