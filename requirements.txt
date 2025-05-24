@@ -1,0 +1,17 @@
+streamlit
+streamlit-tags
+pymysql
+plotly
+nltk
+pymupdf
+google-generativeai
+scikit-learn
+selenium
+spacy
+PyPDF2
+docx2txt
+pdfplumber
+requests
+cryptography
+seaborn
+streamlit-option-menu
